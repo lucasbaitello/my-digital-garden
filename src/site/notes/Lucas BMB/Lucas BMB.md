@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/lucas-bmb/lucas-bmb/","tags":["gardenEntry"],"created":"2025-10-20T00:40:45.324-03:00"}
+{"dg-publish":true,"permalink":"/lucas-bmb/lucas-bmb/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-20T00:40:45.324-03:00"}
 ---
+
+
+
+
+arreeeee 
 
 
 [[Lucas BMB/testes/gráfico\|gráfico]]

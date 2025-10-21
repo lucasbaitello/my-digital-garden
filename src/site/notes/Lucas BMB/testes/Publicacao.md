@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lucas-bmb/testes/publicacao/","created":"2025-10-19T13:29:27.687-03:00"}
+{"dg-publish":true,"permalink":"/lucas-bmb/testes/publicacao/","noteIcon":"","created":"2025-10-19T13:29:27.687-03:00"}
 ---
 
 PUuuuublica teste
